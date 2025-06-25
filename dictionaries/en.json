@@ -1,0 +1,84 @@
+{
+  "header": {
+    "services": "Services",
+    "about": "About Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "footer": {
+    "tagline": "Crafting your perfect golden smile.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "address": "123 Dental Ave, Smile City, ST 12345",
+    "phone": "(123) 456-7890",
+    "social": "Follow Us",
+    "copyright": "All Rights Reserved."
+  },
+  "page": {
+    "hero": {
+      "title": "Crafting Your Perfect <1>Golden Smile</1>",
+      "subtitle": "Experience state-of-the-art dentistry in a comfortable and friendly environment. Your smile is our passion.",
+      "cta": "Book an Appointment",
+      "imageAlt": "A portrait of the lead dentist in a modern clinic"
+    },
+    "services": {
+      "title": "Comprehensive Dental Care",
+      "subtitle": "We offer a full spectrum of dental services to meet all your family's needs.",
+      "cards": {
+        "checkups": {
+          "title": "General Check-ups",
+          "description": "Routine cleanings and exams to maintain optimal oral health and prevent future problems."
+        },
+        "cosmetic": {
+          "title": "Cosmetic Dentistry",
+          "description": "Enhance your smile with our whitening, veneers, and bonding services."
+        },
+        "implants": {
+          "title": "Dental Implants",
+          "description": "A permanent, natural-looking solution for replacing missing teeth and restoring your smile."
+        }
+      }
+    },
+    "about": {
+      "title": "Meet Our Expert Team",
+      "p1": "At Golden Smile, our strength is our dedicated and compassionate team. Led by our expert dentists, we are committed to providing personalized care using the latest dental technology.",
+      "p2": "We believe in building lasting relationships with our patients, based on trust and open communication. Your comfort and health are our top priorities.",
+      "imageAlt": "The lead dentist smiling"
+    },
+    "testimonials": {
+      "title": "What Our Patients Say",
+      "subtitle": "We're proud to have created thousands of happy, healthy smiles.",
+      "cards": [
+        {
+          "name": "Sarah J.",
+          "title": "Routine Check-up",
+          "quote": "The most comfortable and professional dental experience I've ever had. The staff at Golden Smile are incredibly friendly and caring."
+        },
+        {
+          "name": "Michael B.",
+          "title": "Dental Implants",
+          "quote": "The team completely transformed my smile with dental implants. The process was seamless and the results are better than I ever imagined. Highly recommend!"
+        },
+        {
+          "name": "Emily T.",
+          "title": "Cosmetic Whitening",
+          "quote": "I was nervous about teeth whitening, but the team made me feel at ease. My smile has never been brighter. Thank you, Golden Smile!"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "Have a question or want to schedule an appointment? Fill out the form below or give us a call.",
+      "visitUs": "Visit Us",
+      "callUs": "Call Us",
+      "form": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "phone": "Your Phone (Optional)",
+        "message": "Your Message",
+        "button": "Send Message"
+      }
+    }
+  }
+}
