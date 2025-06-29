@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "services": "Services",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "hero": {
+    "title": "Shape Your Perfect Golden Smile",
+    "subtitle": "Discover cutting-edge dentistry in a comfortable and friendly environment. Your smile is our passion.",
+    "cta": "Book an Appointment"
+  },
+  "services": {
+    "title": "Comprehensive Dental Care",
+    "subtitle": "We offer a complete range of dental services to meet all your family's needs.",
+    "general_checkups": {
+      "title": "General Checkups",
+      "description": "Routine cleanings and examinations to maintain optimal oral health and prevent future problems."
+    },
+    "dental_implants": {
+      "title": "Dental Implants",
+      "description": "A permanent and natural-looking solution to replace missing teeth and restore your smile."
+    },
+    "emergency": {
+      "title": "Emergency Care",
+      "description": "24/7 emergency dental services for urgent dental needs and pain relief."
+    }
+  },
+  "about": {
+    "title": "Meet Our Expert Team",
+    "description1": "At Golden Smile, our strength lies in our dedicated and compassionate team. Led by our expert dentists, we are committed to providing personalized care using the latest dental technologies.",
+    "description2": "We believe in building lasting relationships with our patients, based on trust and open communication. Your comfort and health are our top priorities."
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Don't just take our word for it - hear from our satisfied patients about their experience at Golden Smile Dental.",
+    "testimonial1": {
+      "name": "Sarah Johnson",
+      "title": "Dental Implant Patient",
+      "quote": "Dr. Smith and his team provided exceptional care. My smile has never looked better!"
+    },
+    "testimonial2": {
+      "name": "Michael Chen",
+      "title": "General Checkup Patient",
+      "quote": "Professional, friendly, and pain-free experience. Highly recommend Golden Smile Dental!"
+    },
+    "testimonial3": {
+      "name": "Emily Rodriguez",
+      "title": "Cosmetic Dentistry Patient",
+      "quote": "Amazing results! The teeth whitening procedure was quick and the results exceeded my expectations."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to schedule your appointment? Get in touch with us today!",
+    "visit": "Visit Us",
+    "form": {
+      "title": "Send us a Message",
+      "fullName": "Full Name *",
+      "fullNamePlaceholder": "Your full name",
+      "email": "Email Address *",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Your phone number",
+      "service": "Preferred Service",
+      "servicePlaceholder": "Select a service",
+      "message": "Message *",
+      "messagePlaceholder": "Tell us about your dental needs or any questions you have...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": {
+        "title": "Message Sent Successfully!",
+        "description": "We'll get back to you within 24 hours.",
+        "sendAnother": "Send Another Message"
+      },
+      "services": {
+        "general": "General Checkup",
+        "cleaning": "Teeth Cleaning",
+        "implants": "Dental Implants",
+        "cosmetic": "Cosmetic Dentistry",
+        "emergency": "Emergency Care",
+        "other": "Other"
+      }
+    },
+    "info": {
+      "title": "Visit Our Clinic",
+      "phone": {
+        "label": "Phone",
+        "hours": "Mon-Fri: 8AM-6PM, Sat: 9AM-3PM"
+      },
+      "email": {
+        "label": "Email",
+        "response": "We respond within 24 hours"
+      },
+      "address": {
+        "label": "Address",
+        "street": "123 Dental Street",
+        "city": "City, State 12345"
+      },
+      "map": {
+        "title": "Interactive Map",
+        "clinic": "Golden Smile Dental Clinic",
+        "directions": "Get Directions"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Your trusted partner for exceptional dental care and beautiful smiles.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "address": "123 Dental Street, City, State 12345",
+    "copyright": "All rights reserved."
+  }
+}

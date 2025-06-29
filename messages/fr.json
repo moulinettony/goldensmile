@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "services": "Services",
+    "about": "À Propos",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "book": "Réserver"
+  },
+  "hero": {
+    "title": "Façonner Votre Parfait Golden Smile",
+    "subtitle": "Découvrez une dentisterie de pointe dans un environnement confortable et convivial. Votre sourire est notre passion.",
+    "cta": "Prendre un rendez-vous"
+  },
+  "services": {
+    "title": "Soins Dentaires Complets",
+    "subtitle": "Nous offrons une gamme complète de services dentaires pour répondre à tous les besoins de votre famille.",
+    "general_checkups": {
+      "title": "Contrôles Généraux",
+      "description": "Nettoyages et examens de routine pour maintenir une santé bucco-dentaire optimale et prévenir les problèmes futurs."
+    },
+    "dental_implants": {
+      "title": "Implants Dentaires",
+      "description": "Une solution permanente et d'apparence naturelle pour remplacer les dents manquantes et restaurer votre sourire."
+    },
+    "emergency": {
+      "title": "Soins d'Urgence",
+      "description": "Services dentaires d'urgence 24h/7j pour les besoins dentaires urgents et le soulagement de la douleur."
+    }
+  },
+  "about": {
+    "title": "Rencontrez Notre Équipe d'Experts",
+    "description1": "Chez Golden Smile, notre force réside dans notre équipe dévouée et compatissante. Dirigés par nos dentistes experts, nous nous engageons à fournir des soins personnalisés en utilisant les dernières technologies dentaires.",
+    "description2": "Nous croyons en l'établissement de relations durables avec nos patients, basées sur la confiance et la communication ouverte. Votre confort et votre santé sont nos priorités absolues."
+  },
+  "testimonials": {
+    "title": "Ce que disent nos patients",
+    "subtitle": "Ne nous croyez pas sur parole - écoutez nos patients satisfaits parler de leur expérience chez Golden Smile Dental.",
+    "testimonial1": {
+      "name": "Sarah Johnson",
+      "title": "Patiente d'implant dentaire",
+      "quote": "Dr. Smith et son équipe ont fourni des soins exceptionnels. Mon sourire n'a jamais été aussi beau !"
+    },
+    "testimonial2": {
+      "name": "Michael Chen",
+      "title": "Patient de contrôle général",
+      "quote": "Expérience professionnelle, amicale et sans douleur. Je recommande vivement Golden Smile Dental !"
+    },
+    "testimonial3": {
+      "name": "Emily Rodriguez",
+      "title": "Patiente de dentisterie esthétique",
+      "quote": "Résultats incroyables ! La procédure de blanchiment des dents a été rapide et les résultats ont dépassé mes attentes."
+    }
+  },
+  "contact": {
+    "title": "Nous Contacter",
+    "subtitle": "Prêt à planifier votre rendez-vous ? Contactez-nous dès aujourd'hui !",
+    "visit": "Nous Rendre Visite",
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "fullName": "Nom Complet *",
+      "fullNamePlaceholder": "Votre nom complet",
+      "email": "Adresse E-mail *",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "phone": "Numéro de Téléphone",
+      "phonePlaceholder": "Votre numéro de téléphone",
+      "service": "Service Préféré",
+      "servicePlaceholder": "Sélectionnez un service",
+      "message": "Message *",
+      "messagePlaceholder": "Parlez-nous de vos besoins dentaires ou de toute question que vous avez...",
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": {
+        "title": "Message Envoyé avec Succès !",
+        "description": "Nous vous répondrons dans les 24 heures.",
+        "sendAnother": "Envoyer un Autre Message"
+      },
+      "services": {
+        "general": "Contrôle Général",
+        "cleaning": "Nettoyage des Dents",
+        "implants": "Implants Dentaires",
+        "cosmetic": "Dentisterie Esthétique",
+        "emergency": "Soins d'Urgence",
+        "other": "Autre"
+      }
+    },
+    "info": {
+      "title": "Visitez Notre Clinique",
+      "phone": {
+        "label": "Téléphone",
+        "hours": "Lun-Ven : 8h-18h, Sam : 9h-15h"
+      },
+      "email": {
+        "label": "E-mail",
+        "response": "Nous répondons dans les 24 heures"
+      },
+      "address": {
+        "label": "Adresse",
+        "street": "123 Rue Dentaire",
+        "city": "Ville, État 12345"
+      },
+      "map": {
+        "title": "Carte Interactive",
+        "clinic": "Clinique Dentaire Golden Smile",
+        "directions": "Obtenir l'Itinéraire"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Votre partenaire de confiance pour des soins dentaires exceptionnels et de beaux sourires.",
+    "quickLinks": "Liens Rapides",
+    "contactInfo": "Informations de Contact",
+    "followUs": "Suivez-Nous",
+    "address": "123 Rue Dentaire, Ville, État 12345",
+    "copyright": "Tous droits réservés."
+  }
+}

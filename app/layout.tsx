@@ -1,6 +1,4 @@
-// app/layout.tsx
-
-import type { Metadata } from "next";
+import { LanguageProvider } from '@/components/LanguageProvider';
 import { Geist } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
@@ -11,22 +9,20 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Golden Smile - Clinique Dentaire",
-  description: "Services dentaires professionnels et attentionnés chez Golden Smile.",
+export const metadata = {
+  title: 'Golden Smile - Dental Clinic',
+  description: 'Professional and caring dental services at Golden Smile.',
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="fr">
       <body className={`${geistSans.variable} font-sans antialiased`}>
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        <LanguageProvider>
+          <Header />
+          <main>{children}</main>
+          <Footer />
+        </LanguageProvider>
       </body>
     </html>
   );
