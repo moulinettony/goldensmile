@@ -193,7 +193,7 @@ function ContactForm() {
           </select>
         </div>
       </div>
-      <div className="mt-6">
+      <div className="mt-6 text-black">
         <label className="block text-sm font-medium text-gray-700 mb-2">
           {t("contact.form.message")}
         </label>
@@ -278,7 +278,7 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-      <section id="about" className="py-16">
+      <section id="about" className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
