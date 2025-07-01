@@ -1,5 +1,23 @@
 @import "tailwindcss";
 
+/* First carousel animation - moves exactly 4 cards width */
+@keyframes slide-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-400px * 4)); /* 320px card + 32px margin = 352px per card */
+  }
+}
+
+.animate-slide-left {
+  animation: slide-left 16s linear infinite;
+}
+
+.animate-slide-left:hover {
+  animation-play-state: paused;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -18,7 +36,9 @@
     --foreground: #ededed;
   }
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   background: var(--background);
   color: var(--foreground);

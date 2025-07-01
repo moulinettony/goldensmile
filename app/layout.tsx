@@ -20,7 +20,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className={`${geistSans.variable} font-sans antialiased`}>
         <LanguageProvider>
           <Header />
-          <main>{children}</main>
+          <main className="mt-[72px]">{children}</main>
           <Footer />
         </LanguageProvider>
       </body>

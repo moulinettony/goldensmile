@@ -7,7 +7,7 @@
     "book": "Réserver"
   },
   "hero": {
-    "title": "Façonner Votre Parfait Golden Smile",
+    "title": "Façonner Votre Parfait",
     "subtitle": "Découvrez une dentisterie de pointe dans un environnement confortable et convivial. Votre sourire est notre passion.",
     "cta": "Prendre un rendez-vous"
   },
@@ -49,6 +49,11 @@
       "name": "Emily Rodriguez",
       "title": "Patiente de dentisterie esthétique",
       "quote": "Résultats incroyables ! La procédure de blanchiment des dents a été rapide et les résultats ont dépassé mes attentes."
+    },
+    "testimonial4": {
+      "name": "David Thompson",
+      "title": "Patient orthodontique",
+      "quote": "Le traitement d'orthodontie était confortable et le personnel a rendu chaque visite agréable. Résultats parfaits !"
     }
   },
   "contact": {

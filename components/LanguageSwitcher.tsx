@@ -28,7 +28,7 @@ export default function LanguageSwitcher() {
             }`}
         />
         <span className={`absolute left-1 text-xs font-medium text-gray-700 ${
-          language === 'en' ? 'filter grayscale' : ''
+          language === 'en' ? 'filter grayscale hover:filter-none' : ''
         }`}>
           <Image
             src="/fr.svg"
@@ -38,7 +38,7 @@ export default function LanguageSwitcher() {
           />
         </span>
         <span className={`absolute right-1 text-xs font-medium text-gray-700 ${
-          language === 'fr' ? 'filter grayscale' : ''
+          language === 'fr' ? 'filter grayscale hover:filter-none' : ''
         }`}>
           <Image
             src="/uk.svg"

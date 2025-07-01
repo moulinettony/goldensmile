@@ -7,7 +7,7 @@
     "book": "Book Now"
   },
   "hero": {
-    "title": "Shape Your Perfect Golden Smile",
+    "title": "Shape Your Perfect",
     "subtitle": "Discover cutting-edge dentistry in a comfortable and friendly environment. Your smile is our passion.",
     "cta": "Book an Appointment"
   },
@@ -49,6 +49,11 @@
       "name": "Emily Rodriguez",
       "title": "Cosmetic Dentistry Patient",
       "quote": "Amazing results! The teeth whitening procedure was quick and the results exceeded my expectations."
+    },
+    "testimonial4": {
+      "name": "David Thompson",
+      "title": "Orthodontic Patient",
+      "quote": "The braces treatment was comfortable and the staff made every visit pleasant. Perfect results!"
     }
   },
   "contact": {

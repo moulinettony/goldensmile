@@ -55,7 +55,7 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
 
   return (
     <LanguageContext.Provider value={{ language, setLanguage, t, isTransitioning }}>
-      <div className={`transition-opacity duration-300 ease-out ${
+      <div className={`transition-opacity duration-300 ease-out overflow-hidden ${
         isTransitioning ? 'opacity-50' : 'opacity-100'
       }`}>
         {children}

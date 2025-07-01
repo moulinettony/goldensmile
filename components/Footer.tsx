@@ -14,7 +14,7 @@ export default function Footer() {
   const { t } = useLanguage();
   return (
     <footer className="bg-gray-800 text-white">
-      <div className="container mx-auto px-6 py-12">
+      <div className="container mx-auto px-6 pt-12 pb-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
             <h3 className="text-xl font-bold">Golden <span className="text-amber-500">Smile</span></h3>
