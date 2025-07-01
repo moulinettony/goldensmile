@@ -21,10 +21,10 @@ export default function LanguageSwitcher() {
       />
       <label
         htmlFor="language-toggle"
-        className="relative flex items-center cursor-pointer bg-gray-200 rounded-full p-1 w-16 h-8 transition-colors duration-200 ease-in-out hover:bg-gray-300"
+        className="relative flex items-center cursor-pointer bg-gray-200 rounded-full p-1 w-16 h-7 lg:h-8 transition-colors duration-200 ease-in-out hover:bg-gray-300"
       >
         <span
-          className={`absolute left-0 top-0 w-8 h-8 bg-amber-500 rounded-full shadow-md transform transition-all duration-300 ease-out ${language === 'en' ? 'translate-x-8 rounded-tl-none rounded-bl-none' : 'translate-x-0 rounded-tr-none rounded-br-none'
+          className={`absolute left-0 top-0 w-8 h-7 lg:h-8 bg-amber-500 rounded-full shadow-md transform transition-all duration-300 ease-out ${language === 'en' ? 'translate-x-8 rounded-tl-none rounded-bl-none' : 'translate-x-0 rounded-tr-none rounded-br-none'
             }`}
         />
         <span className={`absolute left-1 text-xs font-medium text-gray-700 ${
@@ -35,6 +35,7 @@ export default function LanguageSwitcher() {
             alt="Dr. Abdelhamid"
             width={24}
             height={24}
+            className="max-lg:h-[22px]"
           />
         </span>
         <span className={`absolute right-1 text-xs font-medium text-gray-700 ${
@@ -45,6 +46,7 @@ export default function LanguageSwitcher() {
             alt="Dr. Abdelhamid"
             width={24}
             height={24}
+            className="max-lg:h-[22px]"
           />
         </span>
       </label>

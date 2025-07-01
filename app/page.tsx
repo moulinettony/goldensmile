@@ -121,7 +121,7 @@ function ContactForm() {
 
   return (
     <form onSubmit={handleSubmit} className="bg-white p-8 rounded-lg shadow-lg">
-      <div className="grid md:grid-cols-2 gap-6">
+      <div className="grid md:grid-cols-2 gap-6 text-black">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">
             {t("contact.form.fullName")}
@@ -334,7 +334,7 @@ export default function Home() {
         <TestimonialsCarousel />
 
         {/* Decorative elements */}
-        <div className="absolute top-10 left-10 w-20 h-20 bg-amber-200 rounded-full opacity-20 animate-pulse"></div>
+        <div className="absolute max-lg:hidden top-10 left-10 w-20 h-20 bg-amber-200 rounded-full opacity-20 animate-pulse"></div>
         <div className="absolute bottom-10 right-10 w-16 h-16 bg-amber-300 rounded-full opacity-30 animate-pulse delay-1000"></div>
       </section>
 
